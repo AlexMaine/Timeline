@@ -1,0 +1,22 @@
+header{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+main{
+    width: 100%;
+    display: flex;
+}
+
+#sectionGauche{
+    width: 50%;
+    background-color: blue;
+    height: 500px;
+}
+
+#sectionDroite{
+    width: 50%;
+    background-color: blueviolet;
+    height: 500px;
+}
